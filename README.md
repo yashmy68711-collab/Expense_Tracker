@@ -7,7 +7,7 @@ This application helps users add and manage daily expenses while tracking the to
 
 ---
 
-## ✨ Features
+##  Features
 
 ✔️ Add expense name and amount
 ✔️ View expense list
@@ -16,14 +16,14 @@ This application helps users add and manage daily expenses while tracking the to
 
 ---
 
-## 🛠️ Tech Used
+##  Tech Used
 
 * Python
 * Tkinter
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Download the project
 2. Open the Python file
@@ -32,7 +32,7 @@ This application helps users add and manage daily expenses while tracking the to
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 expense-tracker/
@@ -42,7 +42,7 @@ expense-tracker/
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Delete expenses
 * Save expense history to file
@@ -51,6 +51,6 @@ expense-tracker/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Made with Python for learning and practice.
